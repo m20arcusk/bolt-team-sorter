@@ -1,0 +1,194 @@
+[
+    {
+        "Student ID": "S001",
+        "Year level": "2",
+        "Faculty": "Business",
+        "Name": "Alice Johnson"
+    },
+    {
+        "Student ID": "S002",
+        "Year level": "4",
+        "Faculty": "Science",
+        "Name": "Bob Smith"
+    },
+    {
+        "Student ID": "S003",
+        "Year level": "3",
+        "Faculty": "Other",
+        "Name": "Carol Williams"
+    },
+    {
+        "Student ID": "S004",
+        "Year level": "1",
+        "Faculty": "Business",
+        "Name": "David Brown"
+    },
+    {
+        "Student ID": "S005",
+        "Year level": "2",
+        "Faculty": "Science",
+        "Name": "Emma Jones"
+    },
+    {
+        "Student ID": "S006",
+        "Year level": "3",
+        "Faculty": "Other",
+        "Name": "Frank Davis"
+    },
+    {
+        "Student ID": "S007",
+        "Year level": "1",
+        "Faculty": "Business",
+        "Name": "Grace Taylor"
+    },
+    {
+        "Student ID": "S008",
+        "Year level": "4",
+        "Faculty": "Science",
+        "Name": "Henry Martinez"
+    },
+    {
+        "Student ID": "S009",
+        "Year level": "2",
+        "Faculty": "Other",
+        "Name": "Irene Rodriguez"
+    },
+    {
+        "Student ID": "S010",
+        "Year level": "3",
+        "Faculty": "Business",
+        "Name": "Jack Lee"
+    },
+    {
+        "Student ID": "S011",
+        "Year level": "1",
+        "Faculty": "Science",
+        "Name": "Kate Campbell"
+    },
+    {
+        "Student ID": "S012",
+        "Year level": "4",
+        "Faculty": "Other",
+        "Name": "Liam White"
+    },
+    {
+        "Student ID": "S013",
+        "Year level": "2",
+        "Faculty": "Business",
+        "Name": "Mia Harris"
+    },
+    {
+        "Student ID": "S014",
+        "Year level": "4",
+        "Faculty": "Science",
+        "Name": "Noah Thomas"
+    },
+    {
+        "Student ID": "S015",
+        "Year level": "3",
+        "Faculty": "Other",
+        "Name": "Olivia Clark"
+    },
+    {
+        "Student ID": "S016",
+        "Year level": "1",
+        "Faculty": "Business",
+        "Name": "Peter Young"
+    },
+    {
+        "Student ID": "S017",
+        "Year level": "2",
+        "Faculty": "Science",
+        "Name": "Quinn Scott"
+    },
+    {
+        "Student ID": "S018",
+        "Year level": "3",
+        "Faculty": "Other",
+        "Name": "Rachel Hall"
+    },
+    {
+        "Student ID": "S019",
+        "Year level": "4",
+        "Faculty": "Business",
+        "Name": "Sam Allen"
+    },
+    {
+        "Student ID": "S020",
+        "Year level": "1",
+        "Faculty": "Science",
+        "Name": "Tina Green"
+    },
+    {
+        "Student ID": "S021",
+        "Year level": "2",
+        "Faculty": "Other",
+        "Name": "Ulysses Brown"
+    },
+    {
+        "Student ID": "S022",
+        "Year level": "3",
+        "Faculty": "Business",
+        "Name": "Victoria King"
+    },
+    {
+        "Student ID": "S023",
+        "Year level": "1",
+        "Faculty": "Science",
+        "Name": "Wendy Martinez"
+    },
+    {
+        "Student ID": "S024",
+        "Year level": "4",
+        "Faculty": "Other",
+        "Name": "Xavier Garcia"
+    },
+    {
+        "Student ID": "S025",
+        "Year level": "2",
+        "Faculty": "Business",
+        "Name": "Yasmin Patel"
+    },
+    {
+        "Student ID": "S026",
+        "Year level": "4",
+        "Faculty": "Science",
+        "Name": "Zachary Nguyen"
+    },
+    {
+        "Student ID": "S027",
+        "Year level": "3",
+        "Faculty": "Other",
+        "Name": "Aaron Rivera"
+    },
+    {
+        "Student ID": "S028",
+        "Year level": "1",
+        "Faculty": "Business",
+        "Name": "Bella Sanchez"
+    },
+    {
+        "Student ID": "S029",
+        "Year level": "2",
+        "Faculty": "Science",
+        "Name": "Carlos Torres"
+    },
+    {
+        "Student ID": "S030",
+        "Year level": "3",
+        "Faculty": "Other",
+        "Name": "Danielle Wright"
+    },
+    {
+        "Student ID": "S031",
+        "Year level": "1",
+        "Faculty": "Business",
+        "Name": "Ethan Reed"
+    },
+    {
+        "Student ID": "S032",
+        "Year level": "4",
+        "Faculty": "Science",
+        "Name": "Fiona Carter"
+    }
+]
